@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+   box-sizing: border-box;
+}
+img{
+    width:100%;
+}
+.container{
+    width: 80%;
+    box-sizing: border-box;
+    margin: auto;
+    background-color: rgb(158, 129, 92);
+    /* margin-top: 20px; */
+}
+ 
+.card{
+    width: 33.333%;
+    height: 40px;
+    background-color: aqua;
+    overflow:visible;
+    margin-top: 30px;
+}
+.clr{
+    clear: both;
+}
